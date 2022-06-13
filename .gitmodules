@@ -1,0 +1,6 @@
+[submodule "eks"]
+	path = eks
+	url = https://github.com/srinivasa-vasu/terraform-eks.git
+[submodule "gke"]
+	path = gke
+	url = https://github.com/srinivasa-vasu/terraform-gke.git
